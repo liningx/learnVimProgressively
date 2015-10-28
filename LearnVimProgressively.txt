@@ -1,0 +1,22 @@
+from http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+1. 1st Level - Survive
+Insert mode. Type ESC to return to Normal mode.
+Delete the char under the cursor
+Save and Quit
+Delete (and copy) the current line
+Paste
+
+2. 2nd Leve - Feel comfortable
+1. Insert mode variations:
+>insert after the cursor
+>insert a new line after the current one
+>insert a new line before the current one
+>replace from the cursor to the end of the word
+2. Basic moves
+>go to the first column
+>go to the first non-blank character of the line
+>go to the end of the line
+>go to the last non-blank character of line    
+>search for pattern
+
+
